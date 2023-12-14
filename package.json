@@ -1,0 +1,15 @@
+{
+  "name": "node-mongo-docker",
+  "version": "1.0.0",
+  "description": "Node.js and MongoDB Docker Example",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.12"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
